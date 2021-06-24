@@ -1,0 +1,36 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.name-highlight{
+    color: orange;
+}
+.halfWidth{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.halfWidth img{
+    width: 100%;
+}
+.halfWidth h2 {
+	font-size: 50px;
+	margin-top: 75px;
+}
+.halfWidth h3 {
+	font-size: 42px;
+}
+.halfWidth h4{
+
+}
+.halfWidth p{
+
+}
+.topBanner{ 
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+ height: 500px;   
+}
